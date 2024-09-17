@@ -10,7 +10,7 @@ This API is the only way to automate chat functionalities on a user account. We 
 _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy looking URLs, logging in and out very quickly... Be responsible Facebook citizens.
 
 ## Install
-If you just want to use fca-kaito, you should use this command:
+If you just want to use fca-heru, you should use this command:
 ```bash
 npm i fca-heru
 ```
